@@ -103,7 +103,8 @@
 				"oderwat.indent-rainbow",
 				"gruntfuggly.todo-tree",
 				"pkief.material-icon-theme",
-				"qwtel.sqlite-viewer"
+				"qwtel.sqlite-viewer",
+				"streetsidesoftware.code-spell-checker"
 			]
 		}
 	}
