@@ -1,2 +1,2 @@
-# PostgreSQL
-repository for learning PostgreSQL
+# SQLITE
+repository for learning SQLITE
