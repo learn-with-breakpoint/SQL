@@ -25,6 +25,7 @@
 				"editor.formatOnPaste": true,
 				"editor.fontSize": 15,
 				"workbench.iconTheme": "material-icon-theme",
+				"workbench.colorTheme": "GitHub Dark",
 				// to do tree settings
 				"todo-tree.highlights.defaultHighlight": {
 					"icon": "alert",
@@ -104,7 +105,8 @@
 				"gruntfuggly.todo-tree",
 				"pkief.material-icon-theme",
 				"qwtel.sqlite-viewer",
-				"streetsidesoftware.code-spell-checker"
+				"streetsidesoftware.code-spell-checker",
+				"github.github-vscode-theme"
 			]
 		}
 	}
