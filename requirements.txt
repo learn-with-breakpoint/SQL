@@ -3,3 +3,8 @@ rope
 autopep8
 pandas
 numpy
+beautifulsoup4
+requests
+tqdm
+matplotlib
+wordcloud
